@@ -1,7 +1,12 @@
 body {
   background-color: gray;
 }
-.intro{
-    display: block;
-    text-align: center;
+.intro {
+  display: block;
+  text-align: center;
+}
+.content {
+  display: block;
+  text-align: center;
+  margin: 5em;
 }
